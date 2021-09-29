@@ -1,0 +1,12 @@
+* Se descarga el fluter de la documentación : https://flutter.dev/
+* Se instala ene l disco local C  en una carpeta que creamos llamada SRC
+* Se agrega la ruta en las variables de entorno PATH
+* Se instala el android estudio para hacer un simulador virtual de Phone
+* Se trabaja en el archivo lib/main.dart
+
+//flutter sintax
+* Toda pagina es un widget, se importa siempre la libreia de widgets 
+import 'package:flutter/material.dart'; u otras.
+* Scaffold es un andamio donde puedo incluir navegación, body y elementos 
+* Para llamar una pagina al widget, el visual estudio nos importa la pagina cuando agregamos el nombre de la clase que hace referencia al widget de la pagina que vamos importar.
+* El archivo pubspec habilitar assets para imagenes u otra config
